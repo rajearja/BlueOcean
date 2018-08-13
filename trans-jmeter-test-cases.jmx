@@ -1,0 +1,11 @@
+# JMeter generated Header file
+Content-Type	application/json;charset=ISO-8859-1
+Accept	application/json
+Accept-Charset	us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251
+User-Agent	Java/1.7.0_25
+ENVIRONMENT-TOKEN	PROD
+RELEASE-TOKEN	Current
+CONSUMER-APPLICATION-ID	274
+REQUEST-TRANSIT	2
+X-Correlation-Id	123456789
+X-Traceability-Id	987654321
